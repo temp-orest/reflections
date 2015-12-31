@@ -16,19 +16,19 @@ Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
     Forks: used when you want to add your own changes/version to an existing 
-    GitHub repo,
-    but the original creator wants to keep their version.
+    GitHub repo, but the original creator wants to keep their version.
     (Create your own version of the repo on GitHub)
-    Clones: used when you want to add changes to an existing GitHub repo that you are currently
-    collaborating with.
+    Clones: used when you want to add changes to an existing GitHub repo that you are currently collaborating with.
     (Add changes to the same repo on GitHub)
-    Branches: used to separate changes that are unwanted in the main version until it is
-    in working order or when it is wanted for it to be merged.
+    Branches: used to separate changes that are unwanted in the main version until it is in working order or when it is wanted for it to be merged.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Having a copy of the last known state of the remote stored locally minimizes the amount of merging that needs to be done.
+    For example, you haven't been able to contribute to a collaboration for some time, but have come up with an idea for a new feature and want to implement it
+    to the GitHub repo. This is where you pull the most recent state of the remote so that it becomes less likely that you will have to merge your changes
+    with the changes that have been made since you last contributed.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
