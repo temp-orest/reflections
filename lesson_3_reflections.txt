@@ -40,4 +40,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If you don't want to make changes in master to test out an idea within a
+    collaboration, you would want to make changes in a separate branch and then
+    push it to GitHub for the collaborators to see and verify if the changes are
+    sufficient, which can then be merged into master.
